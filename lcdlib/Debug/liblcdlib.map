@@ -1,0 +1,611 @@
+
+As-needed library included to satisfy reference by file (symbol)
+
+libgcc_s.so.1                 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o (__aeabi_unwind_cpp_pr0@@GCC_3.5)
+libc.so.6                     /home/ngoc/workspace/lcdlib/Debug/lcdlib.o (usleep@@GLIBC_2.4)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .gnu_debuglink
+                0x00000000        0xc /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtendS.o
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+ .gnu_debuglink
+                0x00000000        0xc /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+LOAD /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libstdc++.so
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/libm.so
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc_s.so.1
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/libc.so
+START GROUP
+LOAD /usr/arm-linux-gnueabihf/lib/libc.so.6
+LOAD /usr/arm-linux-gnueabihf/lib/libc_nonshared.a
+LOAD /usr/arm-linux-gnueabihf/lib/ld-linux-armhf.so.3
+END GROUP
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc_s.so.1
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtendS.o
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+                0x00000114                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+                0x00000114       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000114       0x24 linker stubs
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000138       0xe0
+ *(.gnu.hash)
+ .gnu.hash      0x00000138       0xe0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+
+.dynsym         0x00000218      0x280
+ *(.dynsym)
+ .dynsym        0x00000218      0x280 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+
+.dynstr         0x00000498      0x26b
+ *(.dynstr)
+ .dynstr        0x00000498      0x26b /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+
+.gnu.version    0x00000704       0x50
+ *(.gnu.version)
+ .gnu.version   0x00000704       0x50 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+
+.gnu.version_d  0x00000754        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+
+.gnu.version_r  0x00000754       0x40
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000754       0x40 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+
+.rel.dyn        0x00000794       0x48
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text      0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x00000794        0x8 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000079c       0x30 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.iplt)
+ .rel.iplt      0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .rel.init_array
+                0x000007cc        0x8 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .rel.fini_array
+                0x000007d4        0x8 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.iplt)
+
+.rel.plt        0x000007dc       0x40
+ *(.rel.plt)
+ .rel.plt       0x000007dc       0x40 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x0000081c        0xc
+ *(SORT(.init))
+ .init          0x0000081c        0x8 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+                0x0000081c                _init
+ .init          0x00000824        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+
+.plt            0x00000828       0x74
+ *(.plt)
+ .plt           0x00000828       0x74 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+
+.iplt           0x0000089c        0x0
+ *(.iplt)
+ .iplt          0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+
+.text           0x0000089c      0x56c
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000089c       0x24 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .text          0x000008c0       0xd0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+ .text          0x00000990      0x478 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+                0x00000990                set_data()
+                0x00000a14                LCDsendChar(unsigned char)
+                0x00000ac4                LCDsendCommand(unsigned char)
+                0x00000b44                LCDinit()
+                0x00000c68                LCDclr()
+                0x00000c74                LCDhome()
+                0x00000c80                LCDstring(char*)
+                0x00000cbc                LCDGotoXY(unsigned char, unsigned char)
+                0x00000d1c                LCDshiftLeft(unsigned char)
+                0x00000d48                LCDshiftRight(unsigned char)
+                0x00000d74                LCDcursorOn()
+                0x00000d80                LCDcursorOnBlink()
+                0x00000d8c                LCDcursorOFF()
+                0x00000d98                LCDblank()
+                0x00000da4                LCDvisible()
+                0x00000db0                LCDcursorLeft(unsigned char)
+                0x00000ddc                LCDcursorRight(unsigned char)
+ .text          0x00000e08        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtendS.o
+ .text          0x00000e08        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini           0x00000e08        0x8
+ *(SORT(.fini))
+ .fini          0x00000e08        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+                0x00000e08                _fini
+ .fini          0x00000e0c        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+                0x00000e10                PROVIDE (__etext, .)
+                0x00000e10                PROVIDE (_etext, .)
+                0x00000e10                PROVIDE (etext, .)
+
+.rodata
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x00000e10       0x6c
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x00000e10       0x6c /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+                0x00000e7c                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x00000e7c       0x60
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00000e7c       0x60 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+                                 0x88 (size before relaxing)
+                0x00000edc                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr   0x00000edc        0x0
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+
+.eh_frame       0x00000edc        0x4
+ *(.eh_frame)
+ .eh_frame      0x00000edc        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x00000ee0                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x00008f0c                . = DATA_SEGMENT_ALIGN (0x8000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x00008f0c        0x4
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00008f0c        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+
+.fini_array     0x00008f10        0x4
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x00008f10        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x00008f14        0x4
+ *(.jcr)
+ .jcr           0x00008f14        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+ .jcr           0x00008f14        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00008f18       0xe8
+ *(.dynamic)
+ .dynamic       0x00008f18       0xe8 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+                0x00008f18                _DYNAMIC
+                0x00009000                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.got            0x00009000       0x44
+ *(.got.plt)
+ .got.plt       0x00009000       0x2c /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+                0x00009000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ *(.got)
+ .got           0x0000902c       0x18 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ *(.igot)
+
+.data           0x00009044        0x4
+                0x00009044                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00009044        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .data          0x00009044        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+ .data.rel      0x00009044        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+                0x00009044                __dso_handle
+ .data          0x00009048        0x0 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .data          0x00009048        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtendS.o
+ .data          0x00009048        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+
+.tm_clone_table
+                0x00009048        0x0
+ .tm_clone_table
+                0x00009048        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+ .tm_clone_table
+                0x00009048        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtendS.o
+
+.data1
+ *(.data1)
+                0x00009048                _edata = .
+                0x00009048                PROVIDE (edata, .)
+                0x00009048                . = .
+                0x00009048                __bss_start = .
+                0x00009048                __bss_start__ = .
+
+.bss            0x00009048        0x4
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00009048        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .bss           0x00009048        0x1 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+ .bss           0x00009049        0x1 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+                0x00009049                lcd_data
+ .bss           0x0000904a        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtendS.o
+ .bss           0x0000904a        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+ *(COMMON)
+                0x0000904c                . = ALIGN ((. != 0x0)?0x4:0x1)
+ *fill*         0x0000904a        0x2 
+                0x0000904c                _bss_end__ = .
+                0x0000904c                __bss_end__ = .
+                0x0000904c                . = ALIGN (0x4)
+                0x0000904c                . = SEGMENT_START ("ldata-segment", .)
+                0x0000904c                . = ALIGN (0x4)
+                0x0000904c                __end__ = .
+                0x0000904c                _end = .
+                0x0000904c                PROVIDE (end, .)
+                0x0000904c                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x2b
+ *(.comment)
+ .comment       0x00000000       0x2b /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+                                 0x2c (size before relaxing)
+ .comment       0x00000000       0x2c /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .comment       0x00000000       0x2c /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtendS.o
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x27 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .ARM.attributes
+                0x00000027       0x35 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbeginS.o
+ .ARM.attributes
+                0x0000005c       0x35 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .ARM.attributes
+                0x00000091       0x35 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtendS.o
+ .ARM.attributes
+                0x000000c6       0x27 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x20
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0x922
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x922 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+
+.debug_abbrev   0x00000000       0xea
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xea /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+
+.debug_line     0x00000000      0x5bc
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x5bc /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+
+.debug_frame    0x00000000      0x240
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x240 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+
+.debug_str      0x00000000     0xc576
+ *(.debug_str)
+ .debug_str     0x00000000     0xc576 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+                               0xd5c9 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro    0x00000000     0x35dd
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x383 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00000383      0x8b0 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00000c33       0x22 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00000c55      0x2c1 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00000f16      0x16f /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001085       0x35 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000010ba       0x70 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x0000112a       0x16 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001140      0x1cf /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x0000130f      0x41a /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001729       0xbe /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000017e7       0x16 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000017fd       0x97 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001894       0x5e /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000018f2       0xd6 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000019c8       0x2e /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000019f6       0x16 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001a0c       0x20 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001a2c       0x1e /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001a4a       0x28 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001a72       0x58 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001aca       0x10 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001ada      0x1c2 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001c9c       0x5e /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001cfa       0x2e /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001d28       0x27 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001d4f       0x16 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001d65       0x97 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001dfc       0x52 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001e4e       0x4c /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001e9a       0x1c /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001eb6       0x28 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001ede       0x10 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001eee       0x10 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001efe       0x4c /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001f4a       0x22 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001f6c       0x68 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00001fd4       0x6d /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002041       0x3a /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x0000207b       0x19 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002094       0x12 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000020a6       0x19 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000020bf       0x1c /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000020db       0x10 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000020eb       0x16 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002101       0x28 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002129       0x10 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002139       0x46 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x0000217f       0x1c /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x0000219b       0x20 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000021bb       0x4c /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002207       0x10 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002217       0x10 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002227       0x16 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x0000223d       0x18 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002255       0x16 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x0000226b       0xd6 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002341      0x256 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002597       0x10 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000025a7       0x16 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000025bd       0x6a /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002627      0x190 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000027b7       0x52 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002809       0x27 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00002830       0x3c /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x0000286c      0x824 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x00003090       0x27 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000030b7       0x1c /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000030d3       0x10 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000030e3      0x2e2 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000033c5       0x22 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000033e7       0xe6 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000034cd       0xa2 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x0000356f       0x52 /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+ .debug_macro   0x000035c1       0x1c /home/ngoc/workspace/lcdlib/Debug/lcdlib.o
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(liblcdlib.so elf32-littlearm)

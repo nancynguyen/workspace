@@ -1,0 +1,1025 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/arm-linux-gnueabihf/lib/libc_nonshared.a(elf-init.oS)
+                              /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o (__libc_csu_init)
+
+As-needed library included to satisfy reference by file (symbol)
+
+libstdc++.so.6                /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o (std::basic_ostream<char, std::char_traits<char> >& std::endl<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&)@@GLIBCXX_3.4)
+libgcc_s.so.1                 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o (__aeabi_unwind_cpp_pr0@@GCC_3.5)
+libpthread.so.0               /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o (close@@GLIBC_2.4)
+libc.so.6                     /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o (perror@@GLIBC_2.4)
+ld-linux-armhf.so.3           /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o (__stack_chk_guard@@GLIBC_2.4)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+ .gnu_debuglink
+                0x00000000        0xc /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .gnu_debuglink
+                0x00000000        0xc /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbegin.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000      0x8aa /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x22 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x1c /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000      0x2c8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000      0x16f /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x35 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x70 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x5e /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0xd6 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x20 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x1c /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x28 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x4c /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x12 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x4c /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x6a /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000      0x190 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x52 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000      0x824 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00000000       0x27 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .group         0x00000000        0x8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000      0x8aa /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x22 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000      0x2c8 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000      0x16f /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x35 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x70 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x16 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000      0x41a /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0xbe /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x97 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x5e /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0xd6 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x2e /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x16 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x20 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x1e /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x28 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x58 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000      0x1c2 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x5e /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x2e /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x27 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x16 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x97 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x52 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x4c /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x1c /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x28 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x4c /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x22 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x68 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x6d /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x3a /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x19 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x12 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x1c /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x16 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x28 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x46 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x1c /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x20 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x4c /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x16 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x18 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x16 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0xd6 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000      0x256 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x16 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x6a /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000      0x190 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x52 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x27 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000      0x824 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x27 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x1c /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x10 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000      0x2e2 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x22 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0xe6 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0xa2 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x52 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x00000000       0x1c /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .note.GNU-stack
+                0x00000000        0x0 /usr/arm-linux-gnueabihf/lib/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+ .gnu_debuglink
+                0x00000000        0xc /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbegin.o
+LOAD /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+LOAD /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+LOAD /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libstdc++.so
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/libm.so
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc_s.so.1
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc.a
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/libpthread.so
+START GROUP
+LOAD /usr/arm-linux-gnueabihf/lib/libpthread.so.0
+LOAD /usr/arm-linux-gnueabihf/lib/libpthread_nonshared.a
+END GROUP
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/libc.so
+START GROUP
+LOAD /usr/arm-linux-gnueabihf/lib/libc.so.6
+LOAD /usr/arm-linux-gnueabihf/lib/libc_nonshared.a
+LOAD /usr/arm-linux-gnueabihf/lib/ld-linux-armhf.so.3
+END GROUP
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc_s.so.1
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/libgcc.a
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtend.o
+LOAD /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+                0x00008000                PROVIDE (__executable_start, 0x8000)
+                0x00008154                . = (0x8000 + SIZEOF_HEADERS)
+
+.interp         0x00008154       0x19
+ *(.interp)
+ .interp        0x00008154       0x19 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+
+.note.ABI-tag   0x00008170       0x20
+ .note.ABI-tag  0x00008170       0x20 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+
+.note.gnu.build-id
+                0x00008190       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00008190       0x24 linker stubs
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x000081b4       0xb0
+ *(.gnu.hash)
+ .gnu.hash      0x000081b4       0xb0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+
+.dynsym         0x00008264      0x1a0
+ *(.dynsym)
+ .dynsym        0x00008264      0x1a0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+
+.dynstr         0x00008404      0x23e
+ *(.dynstr)
+ .dynstr        0x00008404      0x23e /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+
+.gnu.version    0x00008642       0x34
+ *(.gnu.version)
+ .gnu.version   0x00008642       0x34 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+
+.gnu.version_d  0x00008678        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+
+.gnu.version_r  0x00008678       0xb0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00008678       0xb0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+
+.rel.dyn        0x00008728       0x18
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00008728        0x8 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x00008730       0x10 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+                0x00008740                PROVIDE (__rel_iplt_start, .)
+ *(.rel.iplt)
+ .rel.iplt      0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+                0x00008740                PROVIDE (__rel_iplt_end, .)
+                0x00008740                PROVIDE (__rela_iplt_start, .)
+                0x00008740                PROVIDE (__rela_iplt_end, .)
+
+.rela.dyn       0x00008740        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                0x00008740                PROVIDE (__rel_iplt_start, .)
+                0x00008740                PROVIDE (__rel_iplt_end, .)
+                0x00008740                PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+                0x00008740                PROVIDE (__rela_iplt_end, .)
+
+.rel.plt        0x00008740       0x90
+ *(.rel.plt)
+ .rel.plt       0x00008740       0x90 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x000087d0        0xc
+ *(SORT(.init))
+ .init          0x000087d0        0x8 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+                0x000087d0                _init
+ .init          0x000087d8        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+
+.plt            0x000087dc       0xec
+ *(.plt)
+ .plt           0x000087dc       0xec /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+                0x000087f0                open@@GLIBC_2.4
+                0x000087fc                abort@@GLIBC_2.4
+                0x00008808                __libc_start_main@@GLIBC_2.4
+                0x00008820                std::ios_base::Init::Init()@@GLIBCXX_3.4
+                0x0000882c                perror@@GLIBC_2.4
+                0x00008838                std::ios_base::Init::~Init()@@GLIBCXX_3.4
+                0x00008844                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)@@GLIBCXX_3.4
+                0x00008850                usleep@@GLIBC_2.4
+                0x0000885c                read@@GLIBC_2.4
+                0x00008868                write@@GLIBC_2.4
+                0x00008874                strlen@@GLIBC_2.4
+                0x00008880                close@@GLIBC_2.4
+                0x0000888c                __stack_chk_fail@@GLIBC_2.4
+                0x00008898                __aeabi_atexit@@CXXABI_ARM_1.3.3
+                0x000088a4                std::ostream::operator<<(std::ostream& (*)(std::ostream&))@@GLIBCXX_3.4
+                0x000088b0                std::basic_ostream<char, std::char_traits<char> >& std::endl<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&)@@GLIBCXX_3.4
+                0x000088bc                snprintf@@GLIBC_2.4
+
+.iplt           0x000088c8        0x0
+ *(.iplt)
+ .iplt          0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+
+.text           0x000088c8      0xb40
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000088c8       0x30 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+                0x000088c8                _start
+ .text          0x000088f8       0x24 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .text          0x0000891c       0x88 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbegin.o
+ .text          0x000089a4      0x1b8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+                0x000089a4                main
+ .text          0x00008b5c      0x3f8 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+                0x00008b5c                gpio_export(unsigned int)
+                0x00008be4                gpio_unexport(unsigned int)
+                0x00008c6c                gpio_set_dir(unsigned int, PIN_DIRECTION)
+                0x00008d0c                gpio_set_value(unsigned int, PIN_VALUE)
+                0x00008dac                gpio_get_value(unsigned int, unsigned int*)
+                0x00008e44                gpio_set_edge(unsigned int, char*)
+                0x00008ed0                gpio_fd_open(unsigned int)
+                0x00008f3c                gpio_fd_close(int)
+ .text          0x00008f54      0x470 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+                0x00008f54                set_data()
+                0x00008fdc                LCDsendChar(unsigned char)
+                0x00009088                LCDsendCommand(unsigned char)
+                0x00009104                LCDinit()
+                0x00009228                LCDclr()
+                0x00009234                LCDhome()
+                0x00009240                LCDstring(char*)
+                0x0000927c                LCDGotoXY(unsigned char, unsigned char)
+                0x000092d8                LCDshiftLeft(unsigned char)
+                0x00009304                LCDshiftRight(unsigned char)
+                0x00009330                LCDcursorOn()
+                0x0000933c                LCDcursorOnBlink()
+                0x00009348                LCDcursorOFF()
+                0x00009354                LCDblank()
+                0x00009360                LCDvisible()
+                0x0000936c                LCDcursorLeft(unsigned char)
+                0x00009398                LCDcursorRight(unsigned char)
+ .text          0x000093c4       0x44 /usr/arm-linux-gnueabihf/lib/libc_nonshared.a(elf-init.oS)
+                0x000093c4                __libc_csu_init
+                0x00009404                __libc_csu_fini
+ .text          0x00009408        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtend.o
+ .text          0x00009408        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini           0x00009408        0x8
+ *(SORT(.fini))
+ .fini          0x00009408        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+                0x00009408                _fini
+ .fini          0x0000940c        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+                0x00009410                PROVIDE (__etext, .)
+                0x00009410                PROVIDE (_etext, .)
+                0x00009410                PROVIDE (etext, .)
+
+.rodata         0x00009410      0x178
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x00009410        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+                0x00009410                _IO_stdin_used
+ .rodata        0x00009414       0x70 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .rodata        0x00009484      0x104 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x00009588       0xc0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x00009588        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+ .ARM.extab     0x00009588        0x0 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .ARM.extab     0x00009588       0x60 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .ARM.extab     0x000095e8       0x60 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+                0x00009648                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x00009648       0xb8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00009648        0x8 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+ .ARM.exidx     0x00009650       0x10 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x00009660       0x40 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .ARM.exidx     0x000096a0       0x60 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+                                 0x88 (size before relaxing)
+                0x00009700                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr   0x00009700        0x0
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+
+.eh_frame       0x00009700        0x4
+ *(.eh_frame)
+ .eh_frame      0x00009700        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x00009704                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x00011ee8                . = DATA_SEGMENT_ALIGN (0x8000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x00011ee8        0x0
+                0x00011ee8                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x00011ee8                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00011ee8        0x8
+                0x00011ee8                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00011ee8        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbegin.o
+ .init_array    0x00011eec        0x4 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+                0x00011ef0                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00011ef0        0x4
+                0x00011ef0                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x00011ef0        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbegin.o
+                0x00011ef4                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x00011ef4        0x4
+ *(.jcr)
+ .jcr           0x00011ef4        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbegin.o
+ .jcr           0x00011ef4        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00011ef8      0x108
+ *(.dynamic)
+ .dynamic       0x00011ef8      0x108 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+                0x00011ef8                _DYNAMIC
+                0x00012000                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.got            0x00012000       0x58
+ *(.got.plt)
+ .got.plt       0x00012000       0x54 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+                0x00012000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x00000000        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+ *(.got)
+ .got           0x00012054        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+ *(.igot)
+
+.data           0x00012058        0x8
+                0x00012058                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00012058        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+                0x00012058                data_start
+                0x00012058                __data_start
+ .data          0x0001205c        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .data          0x0001205c        0x4 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbegin.o
+                0x0001205c                __dso_handle
+ .data          0x00012060        0x0 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .data          0x00012060        0x0 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .data          0x00012060        0x0 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .data          0x00012060        0x0 /usr/arm-linux-gnueabihf/lib/libc_nonshared.a(elf-init.oS)
+ .data          0x00012060        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtend.o
+ .data          0x00012060        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+
+.tm_clone_table
+                0x00012060        0x0
+ .tm_clone_table
+                0x00012060        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbegin.o
+ .tm_clone_table
+                0x00012060        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtend.o
+
+.data1
+ *(.data1)
+                0x00012060                _edata = .
+                0x00012060                PROVIDE (edata, .)
+                0x00012060                . = .
+                0x00012060                __bss_start = .
+                0x00012060                __bss_start__ = .
+
+.bss            0x00012060       0xa0
+ *(.dynbss)
+ *fill*         0x00012060        0x0 
+ .dynbss        0x00012060       0x94 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+                0x00012060                std::cout@@GLIBCXX_3.4
+                0x000120f0                __stack_chk_guard@@GLIBC_2.4
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000120f4        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+ .bss           0x000120f4        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .bss           0x000120f4        0x1 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbegin.o
+ *fill*         0x000120f5        0x3 
+ .bss           0x000120f8        0x4 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .bss           0x000120fc        0x0 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .bss           0x000120fc        0x1 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+                0x000120fc                lcd_data
+ .bss           0x000120fd        0x0 /usr/arm-linux-gnueabihf/lib/libc_nonshared.a(elf-init.oS)
+ .bss           0x000120fd        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtend.o
+ .bss           0x000120fd        0x0 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+ *(COMMON)
+                0x00012100                . = ALIGN ((. != 0x0)?0x4:0x1)
+ *fill*         0x000120fd        0x3 
+                0x00012100                _bss_end__ = .
+                0x00012100                __bss_end__ = .
+                0x00012100                . = ALIGN (0x4)
+                0x00012100                . = SEGMENT_START ("ldata-segment", .)
+                0x00012100                . = ALIGN (0x4)
+                0x00012100                __end__ = .
+                0x00012100                _end = .
+                0x00012100                PROVIDE (end, .)
+                0x00012100                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x56
+ *(.comment)
+ .comment       0x00000000       0x2b /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbegin.o
+                                 0x2c (size before relaxing)
+ .comment       0x00000000       0x2c /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .comment       0x00000000       0x2c /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .comment       0x00000000       0x2c /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .comment       0x0000002b       0x2b /usr/arm-linux-gnueabihf/lib/libc_nonshared.a(elf-init.oS)
+                                 0x2c (size before relaxing)
+ .comment       0x00000000       0x2c /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtend.o
+
+.ARM.attributes
+                0x00000000       0x37
+ .ARM.attributes
+                0x00000000       0x35 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crt1.o
+ .ARM.attributes
+                0x00000035       0x27 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crti.o
+ .ARM.attributes
+                0x0000005c       0x35 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtbegin.o
+ .ARM.attributes
+                0x00000091       0x3d /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .ARM.attributes
+                0x000000ce       0x3d /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .ARM.attributes
+                0x0000010b       0x3d /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .ARM.attributes
+                0x00000148       0x37 /usr/arm-linux-gnueabihf/lib/libc_nonshared.a(elf-init.oS)
+ .ARM.attributes
+                0x0000017f       0x35 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/crtend.o
+ .ARM.attributes
+                0x000001b4       0x27 /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/../../../../arm-linux-gnueabihf/lib/../lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x60
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_aranges
+                0x00000020       0x20 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_aranges
+                0x00000040       0x20 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2155
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x148c /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_info    0x0000148c      0x3a7 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_info    0x00001833      0x922 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+
+.debug_abbrev   0x00000000      0x570
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3b1 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_abbrev  0x000003b1       0xd5 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_abbrev  0x00000486       0xea /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+
+.debug_line     0x00000000     0x12c6
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x884 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_line    0x00000884      0x49d /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_line    0x00000d21      0x5a5 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+
+.debug_frame    0x00000000      0x3d0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x6c /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_frame   0x0000006c      0x130 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_frame   0x0000019c      0x234 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+
+.debug_str      0x00000000    0x11c9d
+ *(.debug_str)
+ .debug_str     0x00000000     0xebea /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+                               0xf04c (size before relaxing)
+ .debug_str     0x0000ebea     0x2e45 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+                               0xafc2 (size before relaxing)
+ .debug_str     0x00011a2f      0x26e /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+                               0xd5d7 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro    0x00000000     0x5330
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x522 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00000522      0x8aa /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00000dcc       0x22 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00000dee       0xef /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00000edd       0x10 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00000eed      0x2c8 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000011b5      0x16f /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001324       0x35 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001359       0x70 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000013c9      0x513 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000018dc       0x16 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000018f2       0x1c /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x0000190e       0x10 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x0000191e       0x16 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001934       0x22 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001956      0x11c /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001a72       0x2e /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001aa0       0x12 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001ab2      0x173 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001c25       0x1c /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001c41       0x6e /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001caf       0x28 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001cd7       0x12 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001ce9       0x82 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001d6b       0x18 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001d83       0x12 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001d95       0x10 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001da5       0x19 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001dbe       0x58 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001e16       0xb4 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001eca       0x16 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001ee0       0x10 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001ef0       0x5e /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00001f4e       0xd6 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002024       0x1c /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002040       0x28 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002068       0x10 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002078       0x10 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002088       0x4c /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000020d4       0x31 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002105       0x58 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x0000215d       0x11 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x0000216e       0x16 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002184       0x10 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002194       0x12 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000021a6       0x10 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000021b6       0x2e /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000021e4      0x122 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002306       0x8e /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002394       0x16 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000023aa       0x20 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000023ca       0x58 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002422       0xfa /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x0000251c       0x42 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x0000255e       0x4c /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000025aa       0xc1 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x0000266b       0x4d /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000026b8       0x10 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000026c8       0x10 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000026d8       0x16 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000026ee       0x76 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002764       0x6a /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000027ce      0x190 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x0000295e       0x52 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000029b0       0x2e /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000029de       0x89 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00002a67      0x824 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x0000328b       0x27 /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x000032b2      0x1bb /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x0000346d      0x41a /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00003887       0xbe /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00003945       0x1c /home/ngoc/workspace/LCDTest/Debug/src/LCDTest.o
+ .debug_macro   0x00003961      0x339 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00003c9a       0x10 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00003caa       0x97 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00003d41       0x2e /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00003d6f       0x16 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00003d85       0x1e /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00003da3       0x28 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00003dcb       0x58 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00003e23      0x1c2 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00003fe5       0x5e /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004043       0x2e /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004071       0x27 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004098       0x16 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x000040ae       0x97 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004145       0x52 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004197       0x4c /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x000041e3       0x22 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004205       0x68 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x0000426d       0x6d /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x000042da       0x3a /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004314       0x19 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x0000432d       0x20 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x0000434d       0x1c /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004369       0x10 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004379       0x16 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x0000438f       0x28 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x000043b7       0x10 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x000043c7       0x46 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x0000440d       0x1c /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004429       0x20 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004449       0x10 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004459       0x10 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004469       0x16 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x0000447f       0x18 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004497       0x16 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x000044ad       0xd6 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004583      0x256 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x000047d9       0x10 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x000047e9       0x16 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x000047ff       0x27 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004826       0x43 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004869       0x1c /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004885       0x10 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004895      0x2e2 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004b77       0x22 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004b99       0xe6 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004c7f       0xa2 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004d21       0x52 /home/ngoc/workspace/LCDTest/Debug/src/SimpleGPIO.o
+ .debug_macro   0x00004d73      0x383 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x000050f6      0x1cf /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x000052c5       0x16 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x000052db       0x19 /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+ .debug_macro   0x000052f4       0x3c /home/ngoc/workspace/LCDTest/Debug/src/lcdlib.o
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(LCDTest elf32-littlearm)
